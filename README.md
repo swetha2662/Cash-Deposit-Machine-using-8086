@@ -1,4 +1,4 @@
-# Cash-Deposit-Machine-using-8086
+# Cash-Deposit-Machine-using-EMU 8086
 A small simulation of cash deposit machine is done using 8086 programming. The use can deposit cash, withdraw cash and view their account balance while running. File is not used!
 
 You need to be an account holder in order to do the operations.
